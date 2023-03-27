@@ -2,7 +2,7 @@ Using React.js, Node.js, Express, TailwindCSS, SQLite3
 
 Overview:
 A menu application that allows you to create and edit menus. 
-Choose headers or items to add to your menu. 
+Add items with title, description and price or just titles.
 Create menu that is run hosted at a unique URL.
 Each unique URL has QR Code and download link. 
 Sign up and Registration.
@@ -28,5 +28,6 @@ To add / improve:
 Weaknesses: 
 1. Not storing email by cookie but localStorage
 2. Not using hash for passwords
+3. Duplicate titles will cause database issues.
 
 
