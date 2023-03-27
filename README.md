@@ -1,10 +1,10 @@
-Using React, Node.js, Express, TailwindCSS, SQLite3
+Using React.js, Node.js, Express, TailwindCSS, SQLite3
 
 Overview:
 A menu application that allows you to create and edit menus. 
 Choose headers or items to add to your menu. 
-After creating your menu you can view it at a unique URL. 
-The finished menu at this unique URL has a QR code as well as a download link for the QR so customers may view the menu.
+Create menu that is run hosted at a unique URL.
+Each unique URL has QR Code and download link. 
 Sign up and Registration.
 
 1. Must have database set up with these tables in SQLite3
