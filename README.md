@@ -19,15 +19,15 @@ Sign up and Registration.
     description TEXT, price REAL, position INTEGER);
 
 To add / improve:
-1. Allow editing menu titles and menus
-2. Make menu titles already used unavailable as menu title option
-3. Deleted Menu Item can be restored / saved in db. 
-4. Make more tailwindCSS for it.
-5. Add options for currency / multiple currency's
+1. Allow editing menu titles and menus.
+2. Make menu titles already used unavailable as menu title option.
+3. Deleted Menu Item can be restored. 
+4. Make more tailwindCSS.
+5. Add options for currency / multiple currency's.
 
 Weaknesses: 
-1. Not storing email by cookie but localStorage
-2. Not using hash for passwords
+1. Not storing email by cookie but localStorage.
+2. Not using hash for passwords.
 3. Duplicate titles will cause database issues.
 
 
