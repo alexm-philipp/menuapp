@@ -3,7 +3,7 @@ Using React.js, Node.js, Express, TailwindCSS, SQLite3
 Overview:
 A menu application that allows you to create and edit menus. 
 Add items with title, description and price or just titles.
-Create menu that is run hosted at a unique URL.
+Create menu that is hosted at a unique URL.
 Each unique URL has QR Code and download link. 
 Sign up and Registration.
 
